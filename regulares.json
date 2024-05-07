@@ -1,0 +1,14 @@
+[
+    {
+        "regulares": [
+            {
+                "id": 1,
+                "nombre": "jaime",
+                "apellido": "Barrera",
+                "cedula": 12857,
+                "direccion": "Tibu",
+                "plan": ""
+            }
+        ]
+    }
+]

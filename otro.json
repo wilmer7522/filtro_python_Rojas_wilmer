@@ -1,0 +1,18 @@
+[
+    {
+        "servicios": [
+            {
+                "plan1": "post Pago",
+                "plan2": "Fibra Optica",
+                "plan3": "Prepago",
+                "precios": [
+                    {
+                        "precio1": 50,
+                        "precio2": 100,
+                        "precio3": 30
+                    }
+                ]
+            }
+        ]
+    }
+]
